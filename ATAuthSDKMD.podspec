@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'ATAuthSDKMD/Classes/**/*'
+  # s.source_files = 'ATAuthSDKMD/Classes/**/*'
   s.vendored_frameworks    = 'ATAuthSDKMD/ATAuthSDKMD/*.framework'
 #  s.frameworks             = 'Security', 'SystemConfiguration', 'CoreGraphics', 'CoreTelephony', 'WebKit'
 #  s.libraries              = 'iconv', 'sqlite3', 'stdc++', 'z'
