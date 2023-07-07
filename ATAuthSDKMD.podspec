@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ATAuthSDKMD'
-  s.version          = '0.1.0'
+  s.version          = '2.12.14'
   s.summary          = 'You can Use ATAuthSDKMD to Integrate ATAuthSDK 一键登录.'
 
 # This description is used to generate tags and improve search results.
